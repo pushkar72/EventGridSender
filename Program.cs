@@ -8,6 +8,9 @@ using Azure.Messaging.EventGrid;
 
 namespace EventGridSender
 {
+    //Same WebAPP Event Receiver
+    //https://docs.microsoft.com/en-us/samples/azure-samples/azure-event-grid-viewer/azure-event-grid-viewer/
+    //Quickstart Guidde: https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal
     class Program
     {
         static void Main()
